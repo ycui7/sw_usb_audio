@@ -1,0 +1,3 @@
+[submodule "clearsound_uac"]
+	path = clearsound_uac
+	url = ../ClearSound_UAC.git
